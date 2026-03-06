@@ -94,8 +94,8 @@ expense-tracker-api/
 1. Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/UlisesF04/ExpenseApi
-cd ExpenseApi
+git clone https://github.com/UlisesF04/ExpenseAPI
+cd ExpenseAPI
 npm install
 ```
 
