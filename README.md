@@ -1,4 +1,4 @@
-# Expense Tracker API
+# ExpenseAPI
 
 > A RESTful API for personal expense management with JWT authentication, category filtering, and monthly statistics.
 
@@ -11,7 +11,7 @@
 
 ## What is this project?
 
-Expense Tracker API is a REST API that allows users to register, log in, and manage
+ExpenseAPI is a REST API that allows users to register, log in, and manage
 their personal expenses. Each user can only access their own data. Built as a portfolio
 project to demonstrate backend development with Node.js, showcasing a different stack
 from my Java/Spring Boot projects.
